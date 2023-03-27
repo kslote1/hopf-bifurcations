@@ -29,10 +29,10 @@ animation1.gif
 ![animation1.gif](animation1.gif)
 
 animation2.gif
-![animation2.gif](animation1.gif)
+![animation2.gif](animation2.gif)
 
 animation3.gif
-![animation3.gif](animation1.gif)
+![animation3.gif](animation3.gif)
 
 Acknowledgements
 The notebook is based on the work of FitzHugh (1961) and Nagumo (1962), who developed the FitzHugh-Nagumo model. The GIFs are generated using the animation package of Matplotlib.
